@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5004"; // your backend port
+const API_URL = " https://backend-kg76.onrender.com/api/student"; // your backend port
 
 // Register
 export const registerUser = async (data) => {
